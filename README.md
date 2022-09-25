@@ -27,6 +27,6 @@ Oi pessoal, me chamo lucas e tenho 19 anos comecei a estudar programação em 20
 ---
 
 <div align = "center">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAntonio20&show_icons=true&theme=react&count_private=true&layout=compact"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=LucasAntonio20&show_icons=true&show_icons=true&theme=react&count_private=true"/>
+<img height = "180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAntonio20&show_icons=true&theme=react&count_private=true&layout=compact"/>
+<img height = "180em" src="https://github-readme-stats.vercel.app/api?username=LucasAntonio20&show_icons=true&show_icons=true&theme=react&count_private=true"/>
 </div>
